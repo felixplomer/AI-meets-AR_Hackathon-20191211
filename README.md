@@ -17,4 +17,5 @@ https://developers.google.com/ar/develop/java/quickstart
 
 https://www.blender.org/download/
 
-https://free3d.com/de/3d-models/bierkrug
+https://free3d.com/de/3d-models/bierkrug https://free3d.com/3d-models/beer
+https://sketchfab.com/tags/beer-mug
