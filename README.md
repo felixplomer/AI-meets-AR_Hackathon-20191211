@@ -15,6 +15,8 @@ https://developers.google.com/ar/develop/java/quickstart
 
 https://unity3d.com/de/get-unity/download
 
+Example projects: https://github.com/search?p=2&q=augmented+reality+basketball&type=Repositories
+
 3D Content / Animations and more Tools + Tutorials:
 
 https://download.3divi.com/Nuitrack/doc/UnityARCore_page.html
