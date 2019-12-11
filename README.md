@@ -30,7 +30,7 @@ https://free3d.com/de/3d-models/bierkrug https://free3d.com/3d-models/beer
 https://sketchfab.com/tags/beer-mug
 
 ___
-Initial Agenda for the challenge:
+***Initial Agenda for the challenge:***
 
 -	Vorstellungsrunde / Einleitung
 
