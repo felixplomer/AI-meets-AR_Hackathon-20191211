@@ -33,15 +33,20 @@ ___
 Initial Agenda for the challenge:
 
 -	Vorstellungsrunde / Einleitung
+
     o	AR-Projekt HDM / IT Future Lab
     o	Technologie AR und OS-Frameworks ARCore, AndroidSDK, Unity
 
 -	Vorgehensweise besprechen / Brainstorming
+
     o	Brainstorming zu den App-Inhalten: Welches Thema, Welches Ziel hat die App?
       Technisch? (z.B. Maschinenmodelle) / Alltag? bzw. Bezug zum Hackathon? (Weihnachten / Bamberg / Bier) 
 - Konkrete Idee: Basketball-Bierkrug-Game erklären
+
     o pot. Datenquellen: Online-3D-Bibliotheken + OpenSource CAD-Tools *  / Animationen 
-    o möglichst out of the box, möglichst individuell (z.B. Bierkrug von Docufy ( Bamberg))
+    
+    o möglichst out of the box, möglichst individuell (z.B. Bierkrug von Docufy (Bamberg))
+    
     o	Aufwandseinschätzung / Machbarkeit (TIM)
     
 - Aufgabenverteilung!
