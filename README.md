@@ -17,10 +17,11 @@ https://unity3d.com/de/get-unity/download
 
 3D Content / Animations and more Tools + Tutorials:
 
-https://makaka.org/unity-tutorials/top-ar-engines  (top 10 AR engines)
+https://download.3divi.com/Nuitrack/doc/UnityARCore_page.html
 
-https://makaka.org/unity-assets/ar-throwing
-https://www.youtube.com/watch?v=2r4-DK9QVDk  (Throw Engine AR Unity)
+https://makaka.org/unity-tutorials/top-ar-engines  (top 10 AR engines)
+https://makaka.org/unity-assets/ar-throwing €
+https://www.youtube.com/watch?v=2r4-DK9QVDk € (Throw Engine AR Unity)
 
 
 
