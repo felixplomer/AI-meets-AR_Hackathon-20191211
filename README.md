@@ -1,8 +1,13 @@
-# Künstliche Intellingenz, Objekt Erkennung und Augmented-Reality - Hackathon-Challenge
-
 Open repo for the AI-meets-AR Challenge at the Docufy Hackathon 2019 in Bamberg.
+Docufy featuring Heidelberg
 
+Containing:
 
+Image/Object Detection with TensorFlow / ML-Algorithms
+Augmented Reality with Unity + ArCore
+o The Object Detection and Augmented Reality funtionality is trained / focussed on LEGO models o Target: detect real lego models and show the "digital twin" (3D Model)
+
+____
 
 
 Backup
