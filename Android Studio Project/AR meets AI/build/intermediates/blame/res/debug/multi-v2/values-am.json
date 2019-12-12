@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
+            "map": [
+                {
+                    "source": "/Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/res/values-am/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,234,280,382,485",
+                        "endColumns": "43,45,101,102,78",
+                        "endOffsets": "233,279,381,484,563"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,153,259,366",
+                        "endColumns": "47,49,105,106,82",
+                        "endOffsets": "98,148,254,361,444"
+                    }
+                }
+            ]
+        }
+    ]
+}

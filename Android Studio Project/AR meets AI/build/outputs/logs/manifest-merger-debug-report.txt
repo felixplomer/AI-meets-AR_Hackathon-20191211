@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [:arcore_client:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/AndroidManifest.xml:17:1-46:12
+MERGED from [:arcore_rendering_utils:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/17a3f9854a969e1c914944410ffa1ef2/AndroidManifest.xml:2:1-11:12
+MERGED from [:arcore_unity:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/346ee7a693f8ccc270b9284854bbb40c/AndroidManifest.xml:2:1-11:12
+MERGED from [:google_ar_required:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/b520eaf6869320582df65df91cb46a04/AndroidManifest.xml:2:1-19:12
+MERGED from [:unityandroidpermissions:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/9d57b3fc4b0b231ed1c1f176096afb93/AndroidManifest.xml:6:1-15:12
+MERGED from [:unitygar:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/223ae9a47a5a750facafea2734dd89d7/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:2:70-96
+		INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml
+		INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:2:97-143
+	android:versionCode
+		INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:2:144-184
+supports-screens
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:4:3-19:17
+MERGED from [:arcore_client:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/AndroidManifest.xml:30:5-44:19
+MERGED from [:arcore_client:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/AndroidManifest.xml:30:5-44:19
+MERGED from [:google_ar_required:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/b520eaf6869320582df65df91cb46a04/AndroidManifest.xml:13:5-17:19
+MERGED from [:google_ar_required:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/b520eaf6869320582df65df91cb46a04/AndroidManifest.xml:13:5-17:19
+	android:label
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:4:90-122
+	android:icon
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:4:58-89
+	android:theme
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:4:16-57
+activity#com.example.test.UnityPlayerActivity
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:5:48-84
+	android:label
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:5:15-47
+	android:launchMode
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:5:85-116
+	android:hardwareAccelerated
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:5:299-334
+	android:configChanges
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:5:117-298
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:5:335-386
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:6:7-9:23
+action#android.intent.action.MAIN
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:8:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:10:7-82
+	android:value
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:10:59-79
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:10:18-58
+meta-data#android.notch_support
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:11:7-78
+	android:value
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:11:55-75
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:11:18-54
+meta-data#unity.tango-enable
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:13:5-73
+	android:value
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:13:50-70
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:13:16-49
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:14:5-88
+	android:value
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:14:65-85
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:14:16-64
+meta-data#unity.build-id
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:15:5-101
+	android:value
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:15:46-98
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:15:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:16:5-69
+	android:value
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:16:49-66
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:16:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:17:5-74
+	android:value
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:17:51-71
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:17:16-50
+meta-data#notch.config
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:18:5-81
+	android:value
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:18:44-78
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:18:16-43
+uses-feature#0x00030000
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:20:3-52
+	android:glEsVersion
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:20:17-49
+uses-permission#android.permission.CAMERA
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:21:3-63
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:21:20-60
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:22:3-65
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:22:20-62
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:23:3-84
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:23:20-81
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:24:3-88
+	android:required
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:24:61-85
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:24:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:25:3-99
+	android:required
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:25:72-96
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:25:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:26:3-108
+	android:required
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:26:81-105
+	android:name
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml:26:17-80
+uses-sdk
+INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml
+INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml
+MERGED from [:arcore_client:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/AndroidManifest.xml:26:5-28:41
+MERGED from [:arcore_client:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/AndroidManifest.xml:26:5-28:41
+MERGED from [:arcore_rendering_utils:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/17a3f9854a969e1c914944410ffa1ef2/AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_rendering_utils:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/17a3f9854a969e1c914944410ffa1ef2/AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/346ee7a693f8ccc270b9284854bbb40c/AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/346ee7a693f8ccc270b9284854bbb40c/AndroidManifest.xml:7:5-9:41
+MERGED from [:google_ar_required:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/b520eaf6869320582df65df91cb46a04/AndroidManifest.xml:7:5-44
+MERGED from [:google_ar_required:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/b520eaf6869320582df65df91cb46a04/AndroidManifest.xml:7:5-44
+MERGED from [:unityandroidpermissions:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/9d57b3fc4b0b231ed1c1f176096afb93/AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/9d57b3fc4b0b231ed1c1f176096afb93/AndroidManifest.xml:11:5-13:41
+MERGED from [:unitygar:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/223ae9a47a5a750facafea2734dd89d7/AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygar:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/223ae9a47a5a750facafea2734dd89d7/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml
+INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml
+		INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml
+		ADDED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml
+		INJECTED from /Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/AndroidManifest.xml
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [:arcore_client:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [:arcore_client:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/AndroidManifest.xml:34:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [:arcore_client:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/AndroidManifest.xml:42:13-43
+	android:exported
+		ADDED from [:arcore_client:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/AndroidManifest.xml:41:13-37
+	android:configChanges
+		ADDED from [:arcore_client:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from [:arcore_client:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [:arcore_client:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/AndroidManifest.xml:38:13-62
+uses-feature#android.hardware.camera.ar
+ADDED from [:google_ar_required:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/b520eaf6869320582df65df91cb46a04/AndroidManifest.xml:9:5-11:35
+	android:required
+		ADDED from [:google_ar_required:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/b520eaf6869320582df65df91cb46a04/AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from [:google_ar_required:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/b520eaf6869320582df65df91cb46a04/AndroidManifest.xml:10:9-50
+meta-data#com.google.ar.core
+ADDED from [:google_ar_required:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/b520eaf6869320582df65df91cb46a04/AndroidManifest.xml:14:9-16:40
+	android:value
+		ADDED from [:google_ar_required:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/b520eaf6869320582df65df91cb46a04/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:google_ar_required:] /Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/b520eaf6869320582df65df91cb46a04/AndroidManifest.xml:15:13-46

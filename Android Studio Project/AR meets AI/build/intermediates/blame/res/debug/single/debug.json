@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/build/intermediates/res/merged/debug/layout___arcore_education.xml.flat",
+        "source": "/Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/res/layout/__arcore_education.xml"
+    },
+    {
+        "merged": "/Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/build/intermediates/res/merged/debug/mipmap-mdpi_app_icon.png.flat",
+        "source": "/Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/ferdinandmotzkus/Desktop/Hackolaus Unity/Android Studio Project/AR meets AI/build/intermediates/res/merged/debug/raw_keep_arcore.xml.flat",
+        "source": "/Users/ferdinandmotzkus/.gradle/caches/transforms-2/files-2.1/a2c9d172ab3f135e2c098e6a74eef9e1/res/raw/keep_arcore.xml"
+    }
+]

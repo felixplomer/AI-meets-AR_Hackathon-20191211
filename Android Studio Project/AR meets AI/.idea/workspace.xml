@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3794b329-f94f-48eb-96e8-641d29b7168e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameLowerLeft.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameLowerLeft.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameLowerRight.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameLowerRight.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameUpperLeft.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameUpperLeft.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameUpperRight.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameUpperRight.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/GoogleARCore/Examples/CloudAnchors/Models/Star_01.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/GoogleARCore/Examples/CloudAnchors/Models/Star_01.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/GoogleARCore/Examples/ObjectManipulation/Materials/footprint.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/GoogleARCore/Examples/ObjectManipulation/Materials/footprint.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/GoogleARCore/SDK/InstantPreview/Scripts/InstantPreview.apk.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/1-sf0138276mom067_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/1-sf0138276mom067_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/10-sf0138276mom060_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/10-sf0138276mom060_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/11-sf0138276mom086_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/11-sf0138276mom086_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/12-sf0138276mom097_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/12-sf0138276mom097_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/13-sf0138276mom098_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/13-sf0138276mom098_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/14-sf0138276mom073_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/14-sf0138276mom073_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/15-sf0138276mom081_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/15-sf0138276mom081_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/16-sf0138276mom080_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/16-sf0138276mom080_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/17-sf0138276mom091_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/17-sf0138276mom091_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/18-sf0138276mom091_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/18-sf0138276mom091_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/19-sf0138276mom070_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/19-sf0138276mom070_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/2-sf0138276mom109_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/2-sf0138276mom109_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/20-sf0138276mom069_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/20-sf0138276mom069_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/21-sf0138276mom111_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/21-sf0138276mom111_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/22-sf0138276mom110_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/22-sf0138276mom110_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/23-sf0138276mom109_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/23-sf0138276mom109_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/24-sf0138276mom107_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/24-sf0138276mom107_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/25-sf0138276mom106_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/25-sf0138276mom106_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/26-sf0138276mom106_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/26-sf0138276mom106_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/27-sf0138276mom105_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/27-sf0138276mom105_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/28-sf0138276mom104_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/28-sf0138276mom104_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/29-sf0138276mom101_00_66090.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/29-sf0138276mom101_00_66090.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/3-sf0138276mom066_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/3-sf0138276mom066_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/30-sf0138276mom101_00_4701.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/30-sf0138276mom101_00_4701.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/31-sf0138276mom101_00_4695.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/31-sf0138276mom101_00_4695.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/4-sf0138276mom064_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/4-sf0138276mom064_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/5-sf0138276mom094_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/5-sf0138276mom094_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/6-sf0138276mom093_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/6-sf0138276mom093_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/7-sf0138276mom091_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/7-sf0138276mom091_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/8-sf0138276mom091_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/8-sf0138276mom091_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/9-sf0138276mom061_00_1903.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/Assets/Objects/Chewi/9-sf0138276mom061_00_1903.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_26" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/test/UnityPlayerActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_ferdinandmotzkus_Desktop_Hackolaus_Unity_Android_Studio_Project_AR_meets_AI_libs_unity_classes_jar_unspecified_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle___arcore_client__aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle___arcore_rendering_utils__aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle___arcore_unity__aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle___google_ar_required__aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle___unityandroidpermissions__aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle___unitygar__aar.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AR meets AI" type="1abcf292:AndroidViewProjectNode" />
+              <item name="AR meets AI" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="AR meets AI" type="1abcf292:AndroidViewProjectNode" />
+              <item name="AR meets AI" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="AR meets AI" type="1abcf292:AndroidViewProjectNode" />
+              <item name="AR meets AI" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="AR meets AI" type="1abcf292:AndroidViewProjectNode" />
+              <item name="AR meets AI" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="test" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AR meets AI" type="1abcf292:AndroidViewProjectNode" />
+              <item name="AR meets AI" type="feadf853:AndroidModuleNode" />
+              <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="AR meets AI" type="1abcf292:AndroidViewProjectNode" />
+              <item name="AR meets AI" type="feadf853:AndroidModuleNode" />
+              <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="test" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AR meets AI" type="1abcf292:AndroidViewProjectNode" />
+              <item name="AR meets AI" type="feadf853:AndroidModuleNode" />
+              <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="test" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AR meets AI" type="1abcf292:AndroidViewProjectNode" />
+              <item name="AR meets AI" type="feadf853:AndroidModuleNode" />
+              <item name="assets" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AR meets AI" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="AR meets AI" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3794b329-f94f-48eb-96e8-641d29b7168e" name="Default Changelist" comment="" />
+      <created>1576185757574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576185757574</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="23" width="1680" height="1027" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32967034" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32941177" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build/generated/source/buildConfig/androidTest/debug/com/example/test/test/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/test/UnityPlayerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
