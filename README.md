@@ -1,7 +1,8 @@
-# Künstliche Intellingenz, Objekt Erkennung und Augmented-Reality - Hackathon-Challenge
+# Künstliche Intellingenz, Objekt Erkennung und Augmented-Reality - Hackathon-Challenge @ Docufy
 
 Open repo for the AI-meets-AR Challenge at the Docufy Hackathon 2019 in Bamberg.
 
+________________________________________________________________
 
 
 
