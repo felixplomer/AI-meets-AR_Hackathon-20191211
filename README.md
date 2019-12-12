@@ -3,9 +3,10 @@ Docufy featuring Heidelberg
 
 Containing:
 
-Image/Object Detection with TensorFlow / ML-Algorithms
-Augmented Reality with Unity + ArCore
-o The Object Detection and Augmented Reality funtionality is trained / focussed on LEGO models o Target: detect real lego models and show the "digital twin" (3D Model)
+- Image/Object Detection with TensorFlow / ML-Algorithms
+- Augmented Reality with Unity + ArCore
+o The Object Detection and Augmented Reality funtionality is trained / focussed on LEGO models 
+o Target: detect real lego models and show the "digital twin" (3D Model)
 
 ____
 
