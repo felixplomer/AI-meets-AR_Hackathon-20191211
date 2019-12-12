@@ -4,3 +4,10 @@ build/
 generated/
 Android Studio Project/AR meets AI/local.properties
 Android Studio Project/AR meets AI/.gradle
+frontend/.idea
+frontend/Samples
+
+frontend/frontend.iml
+frontend/gradlew
+frontend/gradlew.bat
+frontend/local.properties
