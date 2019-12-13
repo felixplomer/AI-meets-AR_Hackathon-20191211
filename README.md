@@ -18,6 +18,8 @@ Backup
 
 Frameworks and Bibs:
 
+https://www.tensorflow.org/
+
 https://github.com/google-ar/sceneform-android-sdk
 
 https://developer.android.com/training/basics/firstapp/creating-project
@@ -26,20 +28,7 @@ https://developers.google.com/ar/develop/java/quickstart
 
 https://unity3d.com/de/get-unity/download
 
-Example projects: https://github.com/search?p=2&q=augmented+reality+basketball&type=Repositories
-
-3D Content / Animations and more Tools + Tutorials:
-
-https://download.3divi.com/Nuitrack/doc/UnityARCore_page.html
-
-https://makaka.org/unity-tutorials/top-ar-engines  (top 10 AR engines)
-https://makaka.org/unity-assets/ar-throwing €
-https://www.youtube.com/watch?v=2r4-DK9QVDk € (Throw Engine AR Unity)
-
-
-
 https://www.blender.org/download/
-
 
 
 ___
