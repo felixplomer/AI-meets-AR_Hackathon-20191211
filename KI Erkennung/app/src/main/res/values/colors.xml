@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#cad400</color>
+    <color name="colorPrimaryDark">#cad400</color>
+    <color name="colorAccent">#cad400</color>
+
+    <color name="semi_transparent">#66000000</color>
+</resources>
